@@ -1,2 +1,2 @@
 scippy >= 0.1.11
-simply >= 4.0.0
+simpy >= 4.0.0
